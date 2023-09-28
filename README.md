@@ -1,4 +1,4 @@
-# URL Format String Parser (Without Lodash)
+# URL Format String Parser
 
 This JavaScript utility function extracts variable parts of a URL format string and maps them to their values in a hash based on a given URL instance. 
 
